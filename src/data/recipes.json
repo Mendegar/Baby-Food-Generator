@@ -1,0 +1,279 @@
+{
+  "recipes": [
+    {
+      "id": "rice_apple_puree",
+      "title": "Рисовая каша с яблоком",
+      "ingredients": [
+        { "product_id": "cereal_rice", "grams": 30 },
+        { "product_id": "fruit_apple", "grams": 40 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Отварить рисовую крупу до мягкости (20-25 минут)",
+        "Яблоко очистить, запечь в духовке до мягкости",
+        "Смешать кашу с печёным яблоком",
+        "Пюрировать блендером до однородности",
+        "Добавить каплю оливкового масла"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Идеальный первый прикорм - безглютеновая каша с легким фруктом. Яблоко добавляет натуральную сладость и пектин для здоровья кишечника."
+    },
+    {
+      "id": "zucchini_potato_puree",
+      "title": "Пюре из кабачка с картофелем",
+      "ingredients": [
+        { "product_id": "veg_zucchini", "grams": 60 },
+        { "product_id": "veg_potato", "grams": 40 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Кабачок и картофель очистить, нарезать кубиками",
+        "Отварить на пару 15-20 минут до мягкости",
+        "Пюрировать блендером с небольшим количеством воды от варки",
+        "Добавить оливковое масло и перемешать"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Нежное овощное пюре, богатое калием и витаминами. Кабачок легко усваивается и редко вызывает аллергию."
+    },
+    {
+      "id": "carrot_pumpkin_puree",
+      "title": "Морковно-тыквенное пюре",
+      "ingredients": [
+        { "product_id": "veg_carrot", "grams": 50 },
+        { "product_id": "veg_pumpkin", "grams": 50 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Морковь и тыкву очистить, нарезать кусочками",
+        "Запечь в духовке при 180°C 25-30 минут",
+        "Пюрировать до однородной консистенции",
+        "Добавить оливковое масло"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Богато бета-каротином для зрения и иммунитета. Естественная сладость нравится малышам."
+    },
+    {
+      "id": "broccoli_cauliflower_puree",
+      "title": "Пюре из брокколи и цветной капусты",
+      "ingredients": [
+        { "product_id": "veg_broccoli", "grams": 50 },
+        { "product_id": "veg_cauliflower", "grams": 50 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Разобрать капусту на соцветия",
+        "Отварить на пару 12-15 минут",
+        "Пюрировать с небольшим количеством воды от варки",
+        "Добавить масло и хорошо перемешать"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Отличный источник витамина C и фолата. Поддерживает иммунную систему."
+    },
+    {
+      "id": "buckwheat_banana",
+      "title": "Гречневая каша с бананом",
+      "ingredients": [
+        { "product_id": "cereal_buckwheat", "grams": 30 },
+        { "product_id": "fruit_banana", "grams": 30 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Сварить гречневую кашу до мягкости",
+        "Банан размять вилкой",
+        "Смешать кашу с бананом",
+        "При необходимости пюрировать",
+        "Добавить масло"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Полноценный белок гречки и калий банана. Безглютеновая каша с натуральной сладостью."
+    },
+    {
+      "id": "sweet_potato_pear",
+      "title": "Пюре из батата с грушей",
+      "ingredients": [
+        { "product_id": "veg_sweet_potato", "grams": 60 },
+        { "product_id": "fruit_pear", "grams": 30 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Батат запечь в духовке до мягкости",
+        "Грушу очистить и потушить до мягкости",
+        "Смешать и пюрировать до однородности",
+        "Добавить оливковое масло"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Богато бета-каротином и клетчаткой. Сладкий вкус и кремовая текстура."
+    },
+    {
+      "id": "avocado_banana_puree",
+      "title": "Пюре из авокадо с бананом",
+      "ingredients": [
+        { "product_id": "fruit_avocado", "grams": 30 },
+        { "product_id": "fruit_banana", "grams": 30 }
+      ],
+      "steps": [
+        "Авокадо разрезать, удалить косточку",
+        "Банан очистить",
+        "Размять вилкой или пюрировать",
+        "Подавать сразу (не хранить долго)"
+      ],
+      "recommended_from_month": 6,
+      "consistency": "puree",
+      "notes": "Богато полезными жирами для развития мозга. Готовить непосредственно перед подачей."
+    },
+    {
+      "id": "chicken_vegetable_puree",
+      "title": "Куриное пюре с овощами",
+      "ingredients": [
+        { "product_id": "protein_chicken", "grams": 20 },
+        { "product_id": "veg_zucchini", "grams": 40 },
+        { "product_id": "veg_carrot", "grams": 30 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Куриное филе отварить до готовности (20 минут)",
+        "Овощи отварить на пару до мягкости",
+        "Все ингредиенты пюрировать с небольшим количеством бульона",
+        "Добавить оливковое масло"
+      ],
+      "recommended_from_month": 8,
+      "consistency": "puree",
+      "notes": "Полноценный белок и гемовое железо. Важно для профилактики железодефицитной анемии."
+    },
+    {
+      "id": "beef_potato_puree",
+      "title": "Говяжье пюре с картофелем",
+      "ingredients": [
+        { "product_id": "protein_beef", "grams": 20 },
+        { "product_id": "veg_potato", "grams": 50 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Говядину отварить до мягкости (30-40 минут)",
+        "Картофель отварить отдельно",
+        "Пюрировать мясо с картофелем и бульоном",
+        "Добавить масло"
+      ],
+      "recommended_from_month": 8,
+      "consistency": "puree",
+      "notes": "Богатейший источник железа. Картофель делает консистенцию более нежной."
+    },
+    {
+      "id": "turkey_sweet_potato",
+      "title": "Индейка с бататом",
+      "ingredients": [
+        { "product_id": "protein_turkey", "grams": 20 },
+        { "product_id": "veg_sweet_potato", "grams": 50 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Индейку отварить до готовности",
+        "Батат запечь или отварить до мягкости",
+        "Пюрировать вместе до однородности",
+        "Добавить оливковое масло"
+      ],
+      "recommended_from_month": 8,
+      "consistency": "puree",
+      "notes": "Нежирное мясо с витамином A. Сладкий вкус батата нравится детям."
+    },
+    {
+      "id": "egg_yolk_vegetable",
+      "title": "Желток с овощным пюре",
+      "ingredients": [
+        { "product_id": "egg_yolk", "grams": 5 },
+        { "product_id": "veg_broccoli", "grams": 50 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Яйцо сварить вкрутую, отделить желток",
+        "Брокколи отварить на пару",
+        "Желток растереть с небольшим количеством воды",
+        "Смешать с овощным пюре",
+        "Добавить масло"
+      ],
+      "recommended_from_month": 8,
+      "consistency": "puree",
+      "notes": "Холин для развития мозга, железо и витамин D. Вводить постепенно, наблюдая за реакцией."
+    },
+    {
+      "id": "cottage_cheese_fruit",
+      "title": "Творог с фруктовым пюре",
+      "ingredients": [
+        { "product_id": "dairy_cottage_cheese", "grams": 20 },
+        { "product_id": "fruit_pear", "grams": 30 }
+      ],
+      "steps": [
+        "Творог протереть через сито для нежной консистенции",
+        "Грушу отварить и пюрировать",
+        "Смешать творог с фруктовым пюре",
+        "При необходимости разбавить кипячёной водой"
+      ],
+      "recommended_from_month": 8,
+      "consistency": "soft-puree",
+      "notes": "Кальций для костей и зубов. Фрукты добавляют витамины и улучшают вкус."
+    },
+    {
+      "id": "fish_vegetable_puree",
+      "title": "Рыбное пюре с овощами",
+      "ingredients": [
+        { "product_id": "fish_white", "grams": 15 },
+        { "product_id": "veg_cauliflower", "grams": 40 },
+        { "product_id": "veg_potato", "grams": 30 },
+        { "product_id": "oil_olive", "grams": 2 }
+      ],
+      "steps": [
+        "Рыбу отварить, тщательно удалить все косточки",
+        "Овощи отварить до мягкости",
+        "Все ингредиенты пюрировать вместе",
+        "Добавить оливковое масло"
+      ],
+      "recommended_from_month": 10,
+      "consistency": "puree",
+      "notes": "Легкоусвояемый белок и йод. Тщательно проверяйте отсутствие костей."
+    },
+    {
+      "id": "mixed_vegetable_chunks",
+      "title": "Овощи мелкими кусочками",
+      "ingredients": [
+        { "product_id": "veg_carrot", "grams": 30 },
+        { "product_id": "veg_zucchini", "grams": 30 },
+        { "product_id": "veg_broccoli", "grams": 30 },
+        { "product_id": "oil_olive", "grams": 3 }
+      ],
+      "steps": [
+        "Все овощи нарезать мелкими кубиками (3-4 мм)",
+        "Отварить на пару до мягкости",
+        "Слегка размять вилкой, оставляя текстуру",
+        "Добавить масло и перемешать"
+      ],
+      "recommended_from_month": 9,
+      "consistency": "soft-chunks",
+      "notes": "Развивает навыки жевания. Кусочки должны легко разминаться языком."
+    },
+    {
+      "id": "chicken_rice_chunks",
+      "title": "Курица с рисом (кусочками)",
+      "ingredients": [
+        { "product_id": "protein_chicken", "grams": 20 },
+        { "product_id": "cereal_rice", "grams": 25 },
+        { "product_id": "veg_carrot", "grams": 25 },
+        { "product_id": "oil_olive", "grams": 3 }
+      ],
+      "steps": [
+        "Курицу отварить и нарезать мелкими кусочками",
+        "Рис отварить до мягкости",
+        "Морковь нарезать мелко и отварить",
+        "Все смешать, добавить масло"
+      ],
+      "recommended_from_month": 10,
+      "consistency": "soft-chunks",
+      "notes": "Переход к более плотной пище. Кусочки мяса должны быть очень мягкими."
+    }
+  ]
+}

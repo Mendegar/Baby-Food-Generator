@@ -1,0 +1,361 @@
+{
+  "products": [
+    {
+      "id": "veg_zucchini",
+      "name": "Кабачок (цуккини)",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 70,
+      "nutrition_per_100g": {
+        "kcal": 17,
+        "protein_g": 1.2,
+        "iron_mg": 0.4,
+        "zinc_mg": 0.2,
+        "calcium_mg": 16,
+        "vitaminD_µg": 0
+      },
+      "notes": "Нежный овощ, низкий риск аллергии, легко пюрировать. Хороший источник витамина C и фолата."
+    },
+    {
+      "id": "veg_carrot",
+      "name": "Морковь",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 55,
+      "nutrition_per_100g": {
+        "kcal": 41,
+        "protein_g": 0.9,
+        "iron_mg": 0.3,
+        "zinc_mg": 0.2,
+        "calcium_mg": 33,
+        "vitaminD_µg": 0
+      },
+      "notes": "Богата бета-каротином (провитамин A), важен для зрения и иммунитета."
+    },
+    {
+      "id": "veg_broccoli",
+      "name": "Брокколи",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 60,
+      "nutrition_per_100g": {
+        "kcal": 34,
+        "protein_g": 2.8,
+        "iron_mg": 0.7,
+        "zinc_mg": 0.4,
+        "calcium_mg": 47,
+        "vitaminD_µg": 0
+      },
+      "notes": "Отличный источник витамина C, фолата и клетчатки. Поддерживает иммунную систему."
+    },
+    {
+      "id": "veg_cauliflower",
+      "name": "Цветная капуста",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 60,
+      "nutrition_per_100g": {
+        "kcal": 25,
+        "protein_g": 1.9,
+        "iron_mg": 0.4,
+        "zinc_mg": 0.3,
+        "calcium_mg": 22,
+        "vitaminD_µg": 0
+      },
+      "notes": "Мягкая текстура после приготовления, богата витамином C и фолатом."
+    },
+    {
+      "id": "veg_potato",
+      "name": "Картофель (варёный)",
+      "allowed_from_month": 6,
+      "categories": ["vegetable", "starch"],
+      "allergens": [],
+      "typical_portion_g": 80,
+      "nutrition_per_100g": {
+        "kcal": 87,
+        "protein_g": 1.9,
+        "iron_mg": 0.3,
+        "zinc_mg": 0.3,
+        "calcium_mg": 5,
+        "vitaminD_µg": 0
+      },
+      "notes": "Хороший источник энергии и калия, подходит как основа для пюре."
+    },
+    {
+      "id": "veg_pumpkin",
+      "name": "Тыква",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 70,
+      "nutrition_per_100g": {
+        "kcal": 26,
+        "protein_g": 1.0,
+        "iron_mg": 0.8,
+        "zinc_mg": 0.3,
+        "calcium_mg": 21,
+        "vitaminD_µg": 0
+      },
+      "notes": "Богата каротиноидами и витамином A, сладкий вкус нравится детям."
+    },
+    {
+      "id": "veg_sweet_potato",
+      "name": "Сладкий картофель (батат)",
+      "allowed_from_month": 6,
+      "categories": ["vegetable"],
+      "allergens": [],
+      "typical_portion_g": 70,
+      "nutrition_per_100g": {
+        "kcal": 86,
+        "protein_g": 1.6,
+        "iron_mg": 0.6,
+        "zinc_mg": 0.3,
+        "calcium_mg": 30,
+        "vitaminD_µg": 0
+      },
+      "notes": "Отличный источник бета-каротина и сложных углеводов."
+    },
+    {
+      "id": "fruit_apple",
+      "name": "Яблоко (печёное/пюре)",
+      "allowed_from_month": 6,
+      "categories": ["fruit"],
+      "allergens": [],
+      "typical_portion_g": 40,
+      "nutrition_per_100g": {
+        "kcal": 52,
+        "protein_g": 0.3,
+        "iron_mg": 0.1,
+        "zinc_mg": 0.0,
+        "calcium_mg": 6,
+        "vitaminD_µg": 0
+      },
+      "notes": "Печёное яблоко легко усваивается, содержит пектин для здоровья кишечника."
+    },
+    {
+      "id": "fruit_pear",
+      "name": "Груша (пюре)",
+      "allowed_from_month": 6,
+      "categories": ["fruit"],
+      "allergens": [],
+      "typical_portion_g": 40,
+      "nutrition_per_100g": {
+        "kcal": 57,
+        "protein_g": 0.4,
+        "iron_mg": 0.2,
+        "zinc_mg": 0.1,
+        "calcium_mg": 9,
+        "vitaminD_µg": 0
+      },
+      "notes": "Мягкая, легко переваривается, содержит клетчатку и витамин C."
+    },
+    {
+      "id": "fruit_banana",
+      "name": "Банан (пюре)",
+      "allowed_from_month": 6,
+      "categories": ["fruit"],
+      "allergens": [],
+      "typical_portion_g": 40,
+      "nutrition_per_100g": {
+        "kcal": 89,
+        "protein_g": 1.1,
+        "iron_mg": 0.3,
+        "zinc_mg": 0.2,
+        "calcium_mg": 5,
+        "vitaminD_µg": 0
+      },
+      "notes": "Богат калием и витамином B6, естественная сладость."
+    },
+    {
+      "id": "fruit_avocado",
+      "name": "Авокадо (пюре)",
+      "allowed_from_month": 6,
+      "categories": ["fruit"],
+      "allergens": [],
+      "typical_portion_g": 30,
+      "nutrition_per_100g": {
+        "kcal": 160,
+        "protein_g": 2.0,
+        "iron_mg": 0.6,
+        "zinc_mg": 0.6,
+        "calcium_mg": 12,
+        "vitaminD_µg": 0
+      },
+      "notes": "Богат полезными жирами (омега-3), важными для развития мозга."
+    },
+    {
+      "id": "cereal_rice",
+      "name": "Рисовая каша (безмолочная)",
+      "allowed_from_month": 6,
+      "categories": ["cereal"],
+      "allergens": [],
+      "typical_portion_g": 40,
+      "nutrition_per_100g": {
+        "kcal": 130,
+        "protein_g": 2.7,
+        "iron_mg": 4.2,
+        "zinc_mg": 1.1,
+        "calcium_mg": 10,
+        "vitaminD_µg": 0
+      },
+      "notes": "Безглютеновая каша, обогащённая железом. Идеальный первый прикорм."
+    },
+    {
+      "id": "cereal_buckwheat",
+      "name": "Гречневая каша",
+      "allowed_from_month": 6,
+      "categories": ["cereal"],
+      "allergens": [],
+      "typical_portion_g": 35,
+      "nutrition_per_100g": {
+        "kcal": 92,
+        "protein_g": 3.4,
+        "iron_mg": 0.8,
+        "zinc_mg": 0.6,
+        "calcium_mg": 7,
+        "vitaminD_µg": 0
+      },
+      "notes": "Полноценный белок, источник железа и магния. Безглютеновая."
+    },
+    {
+      "id": "cereal_oat",
+      "name": "Овсяная каша (мелкого помола)",
+      "allowed_from_month": 6,
+      "categories": ["cereal"],
+      "allergens": [],
+      "typical_portion_g": 35,
+      "nutrition_per_100g": {
+        "kcal": 68,
+        "protein_g": 2.4,
+        "iron_mg": 1.2,
+        "zinc_mg": 1.0,
+        "calcium_mg": 9,
+        "vitaminD_µg": 0
+      },
+      "notes": "Содержит бета-глюканы для здоровья кишечника. Хорошо разваривать."
+    },
+    {
+      "id": "protein_chicken",
+      "name": "Курица (филе, пюре)",
+      "allowed_from_month": 8,
+      "categories": ["meat"],
+      "allergens": [],
+      "typical_portion_g": 25,
+      "nutrition_per_100g": {
+        "kcal": 165,
+        "protein_g": 31.0,
+        "iron_mg": 0.9,
+        "zinc_mg": 1.0,
+        "calcium_mg": 11,
+        "vitaminD_µg": 0
+      },
+      "notes": "Отличный источник полноценного белка и гемового железа."
+    },
+    {
+      "id": "protein_turkey",
+      "name": "Индейка (филе, пюре)",
+      "allowed_from_month": 8,
+      "categories": ["meat"],
+      "allergens": [],
+      "typical_portion_g": 25,
+      "nutrition_per_100g": {
+        "kcal": 135,
+        "protein_g": 30.1,
+        "iron_mg": 1.4,
+        "zinc_mg": 1.4,
+        "vitaminD_µg": 0,
+        "calcium_mg": 10
+      },
+      "notes": "Нежирное мясо, богатое железом и цинком для роста."
+    },
+    {
+      "id": "protein_beef",
+      "name": "Говядина (пюре)",
+      "allowed_from_month": 8,
+      "categories": ["meat"],
+      "allergens": [],
+      "typical_portion_g": 25,
+      "nutrition_per_100g": {
+        "kcal": 250,
+        "protein_g": 26.0,
+        "iron_mg": 2.6,
+        "zinc_mg": 4.8,
+        "calcium_mg": 5,
+        "vitaminD_µg": 0
+      },
+      "notes": "Богатейший источник гемового железа, предотвращает анемию."
+    },
+    {
+      "id": "egg_yolk",
+      "name": "Яичный желток",
+      "allowed_from_month": 8,
+      "categories": ["egg"],
+      "allergens": ["egg"],
+      "typical_portion_g": 8,
+      "nutrition_per_100g": {
+        "kcal": 322,
+        "protein_g": 15.9,
+        "iron_mg": 2.7,
+        "zinc_mg": 2.3,
+        "calcium_mg": 129,
+        "vitaminD_µg": 2.2
+      },
+      "notes": "Источник холина для развития мозга, витамина D и железа."
+    },
+    {
+      "id": "dairy_cottage_cheese",
+      "name": "Творог (детский, нежирный)",
+      "allowed_from_month": 8,
+      "categories": ["dairy"],
+      "allergens": ["milk"],
+      "typical_portion_g": 25,
+      "nutrition_per_100g": {
+        "kcal": 72,
+        "protein_g": 12.6,
+        "iron_mg": 0.1,
+        "zinc_mg": 0.4,
+        "calcium_mg": 83,
+        "vitaminD_µg": 0
+      },
+      "notes": "Отличный источник кальция и белка для роста костей."
+    },
+    {
+      "id": "fish_white",
+      "name": "Нежирная рыба (хек, треска)",
+      "allowed_from_month": 10,
+      "categories": ["fish"],
+      "allergens": ["fish"],
+      "typical_portion_g": 20,
+      "nutrition_per_100g": {
+        "kcal": 82,
+        "protein_g": 17.8,
+        "iron_mg": 0.4,
+        "zinc_mg": 0.4,
+        "calcium_mg": 16,
+        "vitaminD_µg": 0.6
+      },
+      "notes": "Легкоусвояемый белок, йод для развития щитовидной железы."
+    },
+    {
+      "id": "oil_olive",
+      "name": "Оливковое масло",
+      "allowed_from_month": 6,
+      "categories": ["oil"],
+      "allergens": [],
+      "typical_portion_g": 3,
+      "nutrition_per_100g": {
+        "kcal": 884,
+        "protein_g": 0,
+        "iron_mg": 0.6,
+        "zinc_mg": 0,
+        "calcium_mg": 1,
+        "vitaminD_µg": 0
+      },
+      "notes": "Добавляется в пюре для калорийности и полезных жиров."
+    }
+  ]
+}
